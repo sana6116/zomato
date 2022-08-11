@@ -6,48 +6,57 @@ import pandas as pd
 import csv
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
-driver.get('https://www.zomato.com/lucknow/delivery?rating_range=4.0-5.0')
+driver.get('https://www.zomato.com/lucknow/dine-out?rating_range=4.0-5.0')
 #driver.get('https://www.zomato.com/ncr/dine-out?rating_range=4.0-5.0')
 
-for i in range(5):
-    driver.execute_script(f'window.scrollTo(0,{i*400})')
+
+for i in range(10):
+    driver.execute_script(f"window.scrollTo(0, {i*400})") 
     time.sleep(3)
 
+
+# Find something which is static
 rest_names = driver.find_elements(
     By.CLASS_NAME, 'sc-1hp8d8a-0'
 )
 
-ratings = driver.find_elements(
-    By.CLASS_NAME, 'sc-1q7bklc-1'
-)
+# select the parent div, in this case select parent to parent div
+restaurant_divs = [
+    el.find_element(
+        By.XPATH, "./../.."
+    ) for el in rest_names
+]
 
-cost_details = driver. find_elements(
-    By.CLASS_NAME, 'sc-jTqLG'
-)
+restaurants = []
 
-cost = [c.text for c in cost_details]
-print(cost)
+for restaurant_div in restaurant_divs:
+    restaurant_name = restaurant_div.find_element(
+        By.XPATH, "./div[1]/h4"
+    )
+    # although data is present inside too many divs 
+    # but text of the first div will give rating no need to go deep
+    rating = restaurant_div.find_element(
+        By.XPATH, "./div[1]/div"
+    )
+    restaurant_type = restaurant_div.find_element(
+        By.XPATH, "./div[2]/p[1]"
+    )
+    price_range = restaurant_div.find_element(
+        By.XPATH, "./div[2]/p[2]"
+    )
+    area = restaurant_div.find_element(
+        By.XPATH, "./p[1]"
+    )
+    restaurants.append({
+        "restaurant_name": restaurant_name.text,
+        "rating": rating.text,
+        "area": area.text,
+        "restaurant_type": restaurant_type.text,
+        "price_range": price_range.text,
+        "url": restaurant_div.get_attribute('href'),
+    })
 
-data = {
-    'restaurant' : [el.text for el in rest_names],
-    'rating' : [el.text for el in ratings],
-    
-}
-        
-    
-df = pd.DataFrame(data)
-df.to_csv('lucknow_restaurant.csv', index=False)
-
-
-
-
-
-
-    
-    
-
-
-
-
+df = pd.DataFrame(restaurants)
+df.to_csv("lucknow_restaurant.csv", index=False)
 
 driver.quit()
