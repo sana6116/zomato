@@ -9,8 +9,9 @@ driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.zomato.com/lucknow/delivery?rating_range=4.0-5.0')
 #driver.get('https://www.zomato.com/ncr/dine-out?rating_range=4.0-5.0')
 
+
 for i in range(5):
-    driver.execute_script(f'window.scrollTo(0,{i*400})')
+    driver.execute_script(f"window.scrollTo(0, {i*400})") 
     time.sleep(3)
 
 rest_names = driver.find_elements(
@@ -25,29 +26,28 @@ cost_details = driver. find_elements(
     By.CLASS_NAME, 'sc-jTqLG'
 )
 
-cost = [c.text for c in cost_details]
-print(cost)
+print(len(rest_names))
+print(len(ratings))
+res = []
 
+
+
+
+
+    
+    
+
+
+
+#for cost in costs:
+    #print(cost.text)
 data = {
     'restaurant' : [el.text for el in rest_names],
     'rating' : [el.text for el in ratings],
-    
 }
-        
-    
 df = pd.DataFrame(data)
+df.columns.to_list()
 df.to_csv('lucknow_restaurant.csv', index=False)
-
-
-
-
-
-
-    
-    
-
-
-
 
 
 driver.quit()
