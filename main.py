@@ -10,7 +10,8 @@ cities = [
     'Lucknow',
     'Patna',
     'Kolkata',
-    'Mumbai'
+    'Mumbai',
+    'Jaipur'
 ]
 
 def parse_for_city(driver, city):
