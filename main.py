@@ -9,7 +9,8 @@ import itertools
 cities = [
     'Lucknow',
     'Patna',
-    'Kolkata'
+    'Kolkata',
+    'Mumbai'
 ]
 
 def parse_for_city(driver, city):
