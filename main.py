@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 import pandas as pd
+import itertools
 
 
 cities = [
@@ -65,13 +66,13 @@ def parse_for_city(driver, city):
             "price_range": price_range.text,
             "url": restaurant_div.get_attribute('href'),
         })
-    df = pd.DataFrame(restaurants)
-    return df
+    return restaurants
 
 
-df = pd.DataFrame()
+
 webdriver = webdriver.Chrome(ChromeDriverManager().install())
-for city in cities:
-    df = pd.concat([df, parse_for_city(webdriver, city)], ignore_index=True)
-webdriver.quit()
+df = pd.DataFrame(
+    list(itertools.chain(*[parse_for_city(webdriver, city) for city in cities]))
+)
 df.to_csv("restaurants.csv", index=False)
+webdriver.quit()
