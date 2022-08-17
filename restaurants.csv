@@ -1,0 +1,241 @@
+city,restaurant_name,rating,area,restaurant_type,price_range,url
+Lucknow,The Terrace,4.2,"Hazratganj, Lucknow","North Indian, Continental, Desserts, Beverages, Fast Food, Street Food","₹1,400 for two",https://www.zomato.com/lucknow/the-terrace-2-hazratganj/info
+Lucknow,L 14 - Renaissance Lucknow Hotel,4.5,"Renaissance Lucknow Hotel, Lucknow","North Indian, Continental, Fast Food, Asian","₹1,500 for two",https://www.zomato.com/lucknow/l-14-renaissance-lucknow-hotel-gomti-nagar/info
+Lucknow,Azrak- Lebua Lucknow,4.2,"lebua Lucknow, Lucknow","North Indian, Hyderabadi, Awadhi, Continental, Desserts, Beverages","₹1,600 for two",https://www.zomato.com/lucknow/azrak-lebua-lucknow-hazratganj/info
+Lucknow,Garden Bakery,4.1,"Aliganj, Lucknow","Bakery, Fast Food, Pizza, Pasta, Chinese, Desserts, Coffee, Beverages",₹800 for two,https://www.zomato.com/lucknow/garden-bakery-aliganj/info
+Lucknow,On High - Hotel Silvete,4.1,"Hazratganj, Lucknow","North Indian, Chinese, Fast Food, Mughlai, Bar Food, Salad, Beverages, Shake","₹1,100 for two",https://www.zomato.com/lucknow/on-high-hotel-silvete-hazratganj/info
+Lucknow,Sahib Cafe - Taj Mahal,4.3,"Taj Mahal, Lucknow, Lucknow","Continental, North Indian, South Indian, Fast Food, Beverages, Chinese","₹2,500 for two",https://www.zomato.com/lucknow/sahib-cafe-taj-mahal-gomti-nagar/info
+Lucknow,Saffron Kitchen Restaurant,4.0,"Sahara Plaza, Patkapuram, Gomti Nagar, Lucknow","Mughlai, North Indian, Lucknowi, Chinese, Desserts","₹1,000 for two",https://www.zomato.com/lucknow/saffron-kitchen-restaurant-gomti-nagar/info
+Lucknow,Mr. Brown - Danbro,4.5,"Aliganj, Lucknow","Bakery, Fast Food, Pizza, Desserts, Beverages",₹500 for two,https://www.zomato.com/lucknow/mr-brown-danbro-aliganj/info
+Lucknow,Caprice - Radisson Lucknow City Center,4.0,"Aminabad, Lucknow","North Indian, Continental, Fast Food, Healthy Food, Mughlai, Chinese, Desserts","₹1,200 for two",https://www.zomato.com/lucknow/caprice-radisson-lucknow-city-center-aminabad/info
+Lucknow,The Square - Novotel,4.1,"Novotel, Gomti Nagar, Lucknow","North Indian, Shake","₹2,000 for two",https://www.zomato.com/lucknow/the-square-novotel-gomti-nagar/info
+Lucknow,Molecule Air Bar,4.5,"Riverside Mall, Gomti Nagar, Lucknow","North Indian, Continental, Chinese, Bar Food, Desserts, Beverages","₹1,500 for two",https://www.zomato.com/lucknow/molecule-air-bar-gomti-nagar/info
+Lucknow,Mashup Cafe & Bar,4.0,"Summit Building, Gomti Nagar, Lucknow","North Indian, Chinese, Mughlai, Italian, Continental, Pizza, Desserts","₹1,000 for two",https://www.zomato.com/lucknow/mashup-cafe-bar-gomti-nagar/info
+Lucknow,Moti Mahal,4.3,"Hazratganj, Lucknow","North Indian, Chinese, South Indian, Pizza, Fast Food, Beverages, Desserts",₹800 for two,https://www.zomato.com/lucknow/moti-mahal-hazratganj/info
+Lucknow,Aadab- Dayal Paradise,4.0,"Hotel Dayal Paradise, Gomti Nagar, Lucknow","North Indian, Mughlai, Continental, Chinese, Shake, Sichuan","₹1,000 for two",https://www.zomato.com/lucknow/aadab-dayal-paradise-gomti-nagar/info
+Lucknow,Pirates of Grill,4.8,"Cyber Heights, Gomti Nagar, Lucknow","North Indian, Mughlai, Continental, Chinese, Desserts","₹2,000 for two",https://www.zomato.com/lucknow/pirates-of-grill-gomti-nagar/info
+Lucknow,ZAO,4.5,"Cyber Heights, Gomti Nagar, Lucknow","Asian, Chinese, Japanese, Korean, Thai, Desserts, Sichuan","₹1,500 for two",https://www.zomato.com/lucknow/zao-1-gomti-nagar/info
+Lucknow,Black Brew House,4.0,"Summit Building, Gomti Nagar, Lucknow","North Indian, Pasta, Pizza, Fast Food","₹1,200 for two",https://www.zomato.com/lucknow/black-brew-house-gomti-nagar/info
+Lucknow,Garden Grille & Bar - Hilton Garden Inn,4.1,"Gomti Nagar, Lucknow","North Indian, Continental, Fast Food","₹1,800 for two",https://www.zomato.com/lucknow/garden-grille-bar-hilton-garden-inn-gomti-nagar/info
+Lucknow,Bajpayee Kachodi Bhandar,4.3,"Hazratganj, Lucknow","North Indian, Street Food",₹100 for two,https://www.zomato.com/lucknow/bajpayee-kachodi-bhandar-hazratganj/info
+Lucknow,Distillery,4.3,"Summit Building, Gomti Nagar, Lucknow","North Indian, Chinese, Italian, Street Food, BBQ, Desserts, Beverages, Bar Food","₹1,600 for two",https://www.zomato.com/lucknow/distillery-gomti-nagar/info
+Lucknow,Lord of The Drinks,4.6,"Gomti Nagar, Lucknow","North Indian, Chinese, Continental, Pizza, Pasta","₹2,000 for two",https://www.zomato.com/lucknow/lord-of-the-drinks-gomti-nagar/info
+Lucknow,Tanatan,4.6,"Hazratganj, Lucknow","North Indian, Malwani, Awadhi","₹1,000 for two",https://www.zomato.com/lucknow/tanatan-hazratganj/info
+Lucknow,The Big Grill,4.5,"Phoenix Plassio Mall, Lucknow","North Indian, Chinese, Desserts","₹1,700 for two",https://www.zomato.com/lucknow/the-big-grill-gomti-nagar/info
+Lucknow,Bikanervala,4.0,"Indira Nagar, Lucknow","North Indian, Mithai, Fast Food, Chinese, South Indian, Desserts, Beverages, Shake",₹500 for two,https://www.zomato.com/lucknow/bikanervala-indira-nagar/info
+Lucknow,Cafe Repertwahr,4.4,"Indira Nagar, Lucknow","North Indian, Pizza, Chinese, Continental, Italian, Seafood, Salad",₹800 for two,https://www.zomato.com/lucknow/cafe-repertwahr-indira-nagar/info
+Lucknow,Cafe Elaichi - A Pure Veg Desi Delight,4.1,"Gomti Nagar, Lucknow","North Indian, South Indian, Chinese, Fast Food, Street Food, Beverages",₹800 for two,https://www.zomato.com/lucknow/cafe-elaichi-a-pure-veg-desi-delight-gomti-nagar/info
+Lucknow,Mahalaxmi Sweets,4.3,"Aliganj, Lucknow","Mithai, North Indian, South Indian, Chinese, Fast Food, Street Food, Pizza, Beverages",₹500 for two,https://www.zomato.com/lucknow/mahalaxmi-sweets-aliganj/info
+Lucknow,Mocha,4.5,"Anand Plaza, Patkapuram, Gomti Nagar, Lucknow","Italian, Continental, North Indian, Fast Food, Desserts, Beverages","₹1,500 for two",https://www.zomato.com/lucknow/mocha-gomti-nagar/info
+Lucknow,Bigg Daddy,4.4,"Cyber Heights, Gomti Nagar, Lucknow","Street Food, Chinese, North Indian, Fast Food, Beverages, Italian","₹1,500 for two",https://www.zomato.com/lucknow/bigg-daddy-gomti-nagar/info
+Lucknow,Net Ram Mithai,4.4,"Aminabad, Lucknow",Mithai,₹200 for two,https://www.zomato.com/lucknow/net-ram-mithai-aminabad/info
+Lucknow,Que,4.2,"Gomti Nagar, Lucknow","North Indian, Continental, Chinese, Bar Food, Italian, Fast Food, Street Food, Desserts","₹1,600 for two",https://www.zomato.com/lucknow/que-1-gomti-nagar/info
+Lucknow,Orchid - Fortune Park BBD,4.0,"Fortune Park BBD, Lucknow","North Indian, Continental, Chinese, Fast Food, Desserts, Beverages","₹1,700 for two",https://www.zomato.com/lucknow/orchid-fortune-park-bbd-hazratganj/info
+Lucknow,Zaika By Gemini Continental Hotel,4.1,"Gemini Continental, Hazratganj, Lucknow","Awadhi, Mughlai, Chinese, Continental, Salad, Italian, Japanese, Thai","₹1,200 for two",https://www.zomato.com/lucknow/zaika-by-gemini-continental-hotel-hazratganj/info
+Lucknow,Marine Room - The Piccadily,4.1,"The Piccadily Lucknow, Alambagh, Lucknow","North Indian, Mughlai, Continental, Oriental, Desserts, Kebab, Beverages","₹1,600 for two",https://www.zomato.com/lucknow/marine-room-alambagh/info
+Lucknow,Madhurima Veg,4.2,"Gomti Nagar, Lucknow","Chinese, Sandwich, Fast Food, North Indian, Pizza, Desserts, South Indian, Burger",₹750 for two,https://www.zomato.com/lucknow/madhurima-veg-1-gomti-nagar/info
+Lucknow,Domino's Pizza,4.2,"Alambagh, Lucknow","Pizza, Fast Food",₹300 for two,https://www.zomato.com/lucknow/dominos-pizza-1-alambagh/info
+Lucknow,Farzi Café,4.6,"Gomti Nagar, Lucknow","Finger Food, Fast Food, North Indian, Desserts, Beverages","₹1,300 for two",https://www.zomato.com/lucknow/farzi-caf%C3%A9-1-gomti-nagar/info
+Lucknow,Masquerade By Mystery Rooms,4.3,"Gomti Nagar, Lucknow","Cafe, Modern Indian, Chinese, North Indian, Continental, Pizza, Pasta, Desserts",₹800 for two,https://www.zomato.com/lucknow/masquerade-by-mystery-rooms-gomti-nagar/info
+Lucknow,Unplugged Courtyard,4.0,"Summit Building, Gomti Nagar, Lucknow","North Indian, Continental, Chinese, Desserts, Beverages","₹2,100 for two",https://www.zomato.com/lucknow/unplugged-courtyard-1-gomti-nagar/info
+Lucknow,The Drowning Street,4.4,"Gomti Nagar, Lucknow","North Indian, Chinese, Continental, Fast Food, Desserts, Beverages","₹1,200 for two",https://www.zomato.com/lucknow/the-drowning-street-gomti-nagar/info
+Lucknow,Skyhilton,4.4,"Alambagh, Lucknow","North Indian, Chinese, Continental, Fast Food, Desserts, Beverages","₹1,500 for two",https://www.zomato.com/lucknow/skyhilton-1-alambagh/info
+Lucknow,Jannat-Dayal Paradise,4.0,"Hotel Dayal Paradise, Gomti Nagar, Lucknow","Italian, Continental, Finger Food","₹1,200 for two",https://www.zomato.com/lucknow/jannat-dayal-paradise-gomti-nagar/info
+Lucknow,Shri Balaji Dhaba,4.2,"Alambagh, Lucknow",North Indian,₹400 for two,https://www.zomato.com/lucknow/shri-balaji-dhaba-alambagh/info
+Lucknow,Raj Luxmi Alambagh,4.2,"Alambagh, Lucknow","North Indian, Awadhi, South Indian, Chinese, Biryani, Fast Food, Desserts",₹400 for two,https://www.zomato.com/lucknow/raj-luxmi-alambagh-alambagh/info
+Lucknow,Mr. Sandwich,4.0,"Khurram Nagar, Lucknow","Fast Food, Sandwich, Desserts, Shake, Beverages",₹300 for two,https://www.zomato.com/lucknow/mr-sandwich-khurram-nagar/info
+Lucknow,B4,4.2,"Gomti Nagar, Lucknow","North Indian, Mughlai, Chinese, Biryani, Fast Food, Street Food, Rolls, Desserts",₹900 for two,https://www.zomato.com/lucknow/b4-gomti-nagar/info
+Lucknow,Be The Beer,4.4,"Cyber Heights, Gomti Nagar, Lucknow","North Indian, Chinese, Italian, Mexican, Fast Food, Desserts, Shake, Beverages","₹1,200 for two",https://www.zomato.com/lucknow/be-the-beer-gomti-nagar/info
+Lucknow,The G.T. Road,3.9,"Gomti Nagar, Lucknow","North Indian, Mughlai","₹1,000 for two",https://www.zomato.com/lucknow/the-g-t-road-gomti-nagar/info
+Lucknow,Rajshree Sweets & Restaurant,4.2,"Indira Nagar, Lucknow","Chinese, South Indian, Mithai, Fast Food, Shake, Beverages",₹350 for two,https://www.zomato.com/lucknow/rajshree-sweets-restaurant-indira-nagar/info
+Lucknow,The Posh Pouf,4.1,"Alambagh, Lucknow","North Indian, Chinese, South Indian, Fast Food, Beverages, Pizza, Rolls, Desserts",₹700 for two,https://www.zomato.com/lucknow/the-posh-pouf-alambagh/info
+Lucknow,Neelkanth Sweets,4.4,"Gomti Nagar, Lucknow","Mithai, North Indian, Street Food, Beverages",₹300 for two,https://www.zomato.com/lucknow/neelkanth-sweets-gomti-nagar/info
+Lucknow,Boombox Bar Xchange,4.4,"Summit Building, Gomti Nagar, Lucknow","North Indian, Chinese, Continental, Desserts","₹1,200 for two",https://www.zomato.com/lucknow/boombox-bar-xchange-gomti-nagar/info
+Lucknow,Home Sweet Home,4.1,"Hazratganj, Lucknow","Pizza, Continental, Mughlai, North Indian, Chinese, Beverages",₹600 for two,https://www.zomato.com/lucknow/home-sweet-home-hazratganj/info
+Lucknow,Mubeen's,4.3,"Chowk, Lucknow",Mughlai,₹300 for two,https://www.zomato.com/lucknow/mubeens-chowk/info
+Lucknow,Vintage Machine,4.5,"Gomti Nagar, Lucknow","Cafe, American, Italian, Lebanese","₹1,000 for two",https://www.zomato.com/lucknow/vintage-machine-gomti-nagar/info
+Lucknow,Barbeque Nation,4.9,"Riverside Mall, Gomti Nagar, Lucknow","BBQ, Chinese, Mediterranean, North Indian, Desserts, Beverages","₹1,700 for two",https://www.zomato.com/lucknow/barbeque-nation-gomti-nagar/info
+Lucknow,Limone Lounge,4.0,"Mahanagar, Lucknow","North Indian, Mughlai, Chinese, Salad, Pizza, Pasta, Fast Food, Beverages",₹800 for two,https://www.zomato.com/lucknow/limone-lounge-mahanagar/info
+Lucknow,The Twilight Kitchen & Bar,4.2,"Jankipuram, Lucknow","North Indian, Continental, Italian, Fast Food, Desserts, Beverages, Finger Food","₹1,400 for two",https://www.zomato.com/lucknow/the-twilight-kitchen-bar-jankipuram/info
+Lucknow,Madhurima Aminabad,4.0,"Aminabad, Lucknow","Street Food, Desserts, South Indian, Chinese",₹500 for two,https://www.zomato.com/lucknow/madhurima-aminabad-aminabad/info
+Lucknow,Madhurima Sweets,4.2,"Gomti Nagar, Lucknow","Chinese, North Indian, South Indian, Biryani, Desserts, Beverages",₹400 for two,https://www.zomato.com/lucknow/madhurima-sweets-gomti-nagar/info
+Lucknow,Dhaba - Estd 1986 Delhi,4.1,"Riverside Mall, Gomti Nagar, Lucknow","Mughlai, North Indian, Biryani, Desserts","₹1,400 for two",https://www.zomato.com/lucknow/dhaba-estd-1986-delhi-gomti-nagar/info
+Lucknow,Punjab Grill,4.3,"Gomti Nagar, Lucknow","North Indian, Mughlai, Desserts, Beverages",₹800 for two,https://www.zomato.com/lucknow/punjab-grill-gomti-nagar/info
+Lucknow,Tamil Nadu Dosa Point,4.1,"Aliganj, Lucknow",South Indian,₹300 for two,https://www.zomato.com/lucknow/tamil-nadu-dosa-point-aliganj/info
+Lucknow,The Centurion,4.4,"Gomti Nagar, Lucknow","North Indian, Continental, Chinese, Italian, Awadhi, Pasta","₹1,800 for two",https://www.zomato.com/lucknow/the-centurion-gomti-nagar/info
+Lucknow,Royal Sky,4.3,"Hazratganj, Lucknow","North Indian, Mughlai, Chinese, Continental, Sichuan","₹1,100 for two",https://www.zomato.com/lucknow/royal-sky-1-hazratganj/info
+Lucknow,Capoor & Sons,4.4,"Gomti Nagar, Lucknow","Cafe, Mughlai, Continental, Desserts, Fast Food, Chinese, Italian, North Indian","₹1,000 for two",https://www.zomato.com/lucknow/capoor-sons-gomti-nagar/info
+Lucknow,Royal Cafe,4.4,"Hazratganj, Lucknow","North Indian, BBQ, Mughlai, Continental, Chinese, Fast Food, Desserts, Beverages",₹550 for two,https://www.zomato.com/lucknow/royal-cafe-hazratganj/info
+Lucknow,Pizza Tavola,4.2,"Indira Nagar, Lucknow",Pizza,₹700 for two,https://www.zomato.com/lucknow/pizza-tavola-1-indira-nagar/info
+Lucknow,Balaji Bhojnalay,4.2,"Charbagh, Lucknow","North Indian, Chinese",₹200 for two,https://www.zomato.com/lucknow/balaji-bhojnalay-charbagh/info
+Lucknow,Royal Cafe,4.1,"Royal Inn, Hazratganj, Lucknow","Pizza, North Indian, Mughlai, Desserts, Chinese, Biryani, Beverages, Sichuan","₹1,500 for two",https://www.zomato.com/lucknow/royal-cafe-5-hazratganj/info
+Lucknow,Urban Nawabs,4.3,"Mahanagar, Lucknow","North Indian, Fast Food, Rolls, Chinese, Desserts, Momos",₹450 for two,https://www.zomato.com/lucknow/urban-nawabs-mahanagar/info
+Lucknow,Best Choice Of Awadh,4.3,"Kanpur Road, Lucknow","North Indian, Continental, Chinese, Italian, Desserts, Shake, Beverages","₹1,000 for two",https://www.zomato.com/lucknow/best-choice-of-awadh-kanpur-road/info
+Lucknow,Dine Out City (DOC),4.1,"Aliganj, Lucknow","North Indian, Chinese, Pizza, Mexican, Asian, Japanese, Thai, Sushi",₹700 for two,https://www.zomato.com/lucknow/dine-out-city-doc-aliganj/info
+Lucknow,Sassy Canteen,4.3,"Gomti Nagar, Lucknow","Japanese, North Indian, Chinese, Italian, Beverages","₹1,200 for two",https://www.zomato.com/lucknow/sassy-canteen-gomti-nagar/info
+Lucknow,Rocca - Hyatt Regency Lucknow,4.2,"Hyatt Regency Lucknow, Lucknow","Italian, North Indian, European, Fast Food, Desserts, Beverages","₹2,600 for two",https://www.zomato.com/lucknow/rocca-hyatt-regency-lucknow-gomti-nagar/info
+Lucknow,The Mughal's Dastarkhwan,4.7,"Lalbagh, Lucknow","Mughlai, Chinese, North Indian, Lucknowi",₹700 for two,https://www.zomato.com/lucknow/the-mughals-dastarkhwan-lalbagh/info
+Lucknow,Wise Choice Restaurant & Lounge,4.1,"Gomti Nagar, Lucknow","North Indian, Chinese",₹800 for two,https://www.zomato.com/lucknow/wise-choice-restaurant-lounge-gomti-nagar/info
+Lucknow,Laddoo Chanakya,4.0,"Hazratganj, Lucknow","Desserts, Mithai",₹350 for two,https://www.zomato.com/lucknow/laddoo-chanakya-hazratganj/info
+Lucknow,Maa Durga Restaurant,4.0,"Alambagh, Lucknow","North Indian, South Indian, Chinese, Fast Food, Momos, Biryani",₹250 for two,https://www.zomato.com/lucknow/maa-durga-restaurant-alambagh/info
+Lucknow,The Flying Saucer Cafe,4.2,"Gomti Nagar, Lucknow","Cafe, Italian, Continental, Chinese","₹1,200 for two",https://www.zomato.com/lucknow/the-flying-saucer-cafe-gomti-nagar/info
+Lucknow,The Hazelnut Factory,4.5,"Nirala Nagar, Lucknow","Bakery, Mithai, Fast Food, Street Food, Pizza, Desserts, Beverages",₹400 for two,https://www.zomato.com/lucknow/the-hazelnut-factory-nirala-nagar/info
+Lucknow,The Peddler's,4.2,"Sapru Marg, Lucknow","North Indian, Continental, Chinese, Fast Food, Beverages",₹800 for two,https://www.zomato.com/lucknow/the-peddlers-sapru-marg/info
+Lucknow,Radheylal Parampara Sweets,4.1,"Alambagh, Lucknow","North Indian, Mithai, Street Food",₹400 for two,https://www.zomato.com/lucknow/radheylal-parampara-sweets-alambagh/info
+Lucknow,Tunday Kababi,4.7,"Aminabad, Lucknow","Mughlai, North Indian, Kebab",₹300 for two,https://www.zomato.com/lucknow/tunday-kababi-2-aminabad/info
+Lucknow,Healthy Panda,4.3,"Gomti Nagar, Lucknow","Healthy Food, Italian, Continental, Sandwich, Salad, Cafe, Beverages",₹800 for two,https://www.zomato.com/lucknow/healthy-panda-1-gomti-nagar/info
+Lucknow,Goku,4.0,"Deva Palace, Gomti Nagar, Lucknow","Japanese, Thai, Korean, Sichuan","₹1,200 for two",https://www.zomato.com/lucknow/goku-gomti-nagar/info
+Lucknow,Classic Radhey Sweets,4.0,"Mahanagar, Lucknow","Mithai, Street Food, Desserts",₹300 for two,https://www.zomato.com/lucknow/classic-radhey-sweets-mahanagar/info
+Lucknow,Spice Sutra,4.3,"Gomti Nagar, Lucknow","North Indian, Fast Food, Beverages, Chinese, Continental, Mughlai, Sichuan",₹700 for two,https://www.zomato.com/lucknow/spice-sutra-1-gomti-nagar/info
+Lucknow,EOS Bar & Bistro- Hotel Levana,4.1,"Hotel Levana, Hazratganj, Lucknow","Finger Food, Continental, North Indian, Chinese, Thai","₹2,000 for two",https://www.zomato.com/lucknow/eos-bar-bistro-hotel-levana-hazratganj/info
+Lucknow,Maharaja Chaap,4.1,"Aliganj, Lucknow","North Indian, Biryani",₹400 for two,https://www.zomato.com/lucknow/maharaja-chaap-aliganj/info
+Lucknow,Paratha's,4.1,"Gomti Nagar, Lucknow","North Indian, Street Food",₹400 for two,https://www.zomato.com/lucknow/parathas-gomti-nagar/info
+Lucknow,Lalla Biryani,4.6,"Chowk, Lucknow","Biryani, North Indian",₹300 for two,https://www.zomato.com/lucknow/lalla-biryani-chowk/info
+Lucknow,The Brew Hubb,4.0,"Aliganj, Lucknow","Cafe, Chinese, Beverages, Coffee, Pizza, Fast Food, Sichuan",₹350 for two,https://www.zomato.com/lucknow/the-brew-hubb-aliganj/info
+Lucknow,Fabcafe By Fabindia,4.1,"Hazratganj, Lucknow","North Indian, Healthy Food, Street Food, Desserts, Biryani, Beverages",₹900 for two,https://www.zomato.com/lucknow/fabcafe-by-fabindia-hazratganj/info
+Lucknow,Falak Numa Restaurant - Hotel Clarks Avadh,4.1,"Hotel Clarks Avadh, Hazratganj, Lucknow","North Indian, Lucknowi","₹1,600 for two",https://www.zomato.com/lucknow/falak-numa-restaurant-hotel-clarks-avadh-hazratganj/info
+Lucknow,The Cellar,4.7,"Mahanagar, Lucknow","Fast Food, Pasta, Pizza, Mexican, Salad, Desserts, Beverages",₹850 for two,https://www.zomato.com/lucknow/the-cellar-mahanagar/info
+Lucknow,TasteBud Restaurant,4.2,"Aliganj, Lucknow","North Indian, Chinese, Kebab, Mughlai",₹400 for two,https://www.zomato.com/lucknow/tastebud-restaurant-aliganj/info
+Lucknow,Zync Bar & Lounge,4.2,"Cyber Heights, Gomti Nagar, Lucknow","Chinese, Mughlai, Awadhi, Beverages",₹900 for two,https://www.zomato.com/lucknow/zync-bar-lounge-gomti-nagar/info
+Lucknow,Chung Fa Restaurant,4.2,"Mahanagar, Lucknow","Chinese, Seafood",₹900 for two,https://www.zomato.com/lucknow/chung-fa-restaurant-mahanagar/info
+Lucknow,The Chocolate Room,4.2,"Hazratganj, Lucknow","Cafe, Mexican, Fast Food, Salad, Beverages, Desserts, Italian",₹500 for two,https://www.zomato.com/lucknow/the-chocolate-room-hazratganj/info
+Lucknow,Dhindhora Fine Dine Restaurant,4.4,"Chowk, Lucknow","North Indian, Chinese, Italian, South Indian",₹600 for two,https://www.zomato.com/lucknow/dhindhora-fine-dine-restaurant-chowk/info
+Lucknow,Desi Rasoi,4.0,"Indira Nagar, Lucknow",North Indian,₹250 for two,https://www.zomato.com/lucknow/desi-rasoi-1-indira-nagar/info
+Lucknow,Al-Jafran,4.1,"Nirala Nagar, Lucknow",North Indian,₹500 for two,https://www.zomato.com/lucknow/al-jafran-nirala-nagar/info
+Lucknow,Free Spirit,4.5,"Gomti Nagar, Lucknow","Cafe, Italian, Beverages, Burger, Chinese, Pasta, Pizza, Sandwich",₹600 for two,https://www.zomato.com/lucknow/free-spirit-gomti-nagar/info
+Lucknow,Dosa Planet,4.5,"Aliganj, Lucknow","South Indian, North Indian, Beverages",₹600 for two,https://www.zomato.com/lucknow/dosa-planet-1-aliganj/info
+Lucknow,Keventers - Milkshakes & Desserts,4.1,"Hazratganj, Lucknow","Shake, Beverages, Desserts, Ice Cream",₹400 for two,https://www.zomato.com/lucknow/keventers-milkshakes-desserts-hazratganj/info
+Lucknow,Rattilal's,4.1,"Aminabad, Lucknow","Mithai, Street Food, Juices, Desserts",₹200 for two,https://www.zomato.com/lucknow/rattilals-aminabad/info
+Lucknow,The Terrace Grill - La Place Sarovar Portico,4.0,"La Place Sarovar Portico, Hazratganj, Lucknow","North Indian, Pizza, Mughlai, Fast Food, Oriental, Beverages, Desserts","₹1,500 for two",https://www.zomato.com/lucknow/the-terrace-grill-la-place-sarovar-portico-hazratganj/info
+Lucknow,Marksmen,4.2,"Lalbagh, Lucknow","South Indian, Chinese, Fast Food, Beverages",₹600 for two,https://www.zomato.com/lucknow/marksmen-lalbagh/info
+Lucknow,Raj Luxmi,4.0,"Charbagh, Lucknow","Mithai, North Indian, Chinese, South Indian, Street Food, Beverages",₹300 for two,https://www.zomato.com/lucknow/raj-luxmi-charbagh/info
+Lucknow,Punjab - The Piccadily,4.1,"The Piccadily Lucknow, Alambagh, Lucknow","North Indian, Mughlai, Awadhi, Desserts, Beverages","₹1,500 for two",https://www.zomato.com/lucknow/punjab-piccadily-alambagh/info
+Lucknow,The Cherry Tree Cafe,4.4,"Hazratganj, Lucknow","Coffee, Desserts, Fast Food, Salad, Sandwich, Pizza, Beverages",₹600 for two,https://www.zomato.com/lucknow/the-cherry-tree-cafe-hazratganj/info
+Lucknow,KFC,4.1,"Gomti Nagar, Lucknow","Burger, Fast Food, Biryani, Desserts, Beverages",₹450 for two,https://www.zomato.com/lucknow/kfc-8-gomti-nagar/info
+Lucknow,Pepperz,4.4,"Transport Nagar, Lucknow","North Indian, Chinese, South Indian, Fast Food, Desserts, Beverages","₹1,200 for two",https://www.zomato.com/lucknow/pepperz-transport-nagar/info
+Lucknow,Urban Turban - The Metropolitan Club,4.4,"Metropolitan Club, Gomti Nagar, Lucknow","North Indian, Mughlai, Chinese, Continental, Kebab, Beverages, Sichuan","₹1,500 for two",https://www.zomato.com/lucknow/urban-turban-the-metropolitan-club-gomti-nagar/info
+Lucknow,Shree Rajbhog,4.5,"Gomti Nagar, Lucknow","Rajasthani, Gujarati",₹600 for two,https://www.zomato.com/lucknow/shree-rajbhog-gomti-nagar/info
+Lucknow,Cappuccino Blast,4.1,"Hazratganj, Lucknow","Cafe, Fast Food, North Indian, Chinese, Italian, Desserts, Shake, Beverages","₹1,000 for two",https://www.zomato.com/lucknow/cappuccino-blast-hazratganj/info
+Patna,Harilal's,4.6,"Kidwaipuri, Patna","Shake, South Indian, Street Food, North Indian, Chinese, Fast Food",₹300 for two,https://www.zomato.com/patna/harilals-kidwaipuri/info
+Patna,Aasman,4.6,"Fraser Road Area, Patna","North Indian, Continental, Chinese, Fast Food, Desserts, Beverages, Sichuan","₹1,000 for two",https://www.zomato.com/patna/aasman-fraser-road-area/info
+Patna,Haldiram,4.1,"Khajpura, Patna","North Indian, Fast Food, Desserts, Mithai, Chinese, South Indian, Bakery, Shake",₹500 for two,https://www.zomato.com/patna/haldiram-khajpura/info
+Patna,Bansi Vihar Restaurant,4.5,"Fraser Road Area, Patna","South Indian, Chinese, Beverages",₹800 for two,https://www.zomato.com/patna/bansi-vihar-restaurant-fraser-road-area/info
+Patna,LBW Lounge Before Wicket,4.1,"Golambar, Patna","Cafe, North Indian, Chinese, Continental, Desserts, Beverages",₹800 for two,https://www.zomato.com/patna/lbw-lounge-before-wicket-1-golambar/info
+Patna,The Dining Room,4.0,"Khajpura, Patna","North Indian, Chinese, Continental, Afghan, South Indian, Kebab, Fast Food, Beverages","₹1,000 for two",https://www.zomato.com/patna/the-dining-room-khajpura/info
+Patna,Shubhraj Fast Food,4.3,"Golambar, Patna","Street Food, North Indian",₹300 for two,https://www.zomato.com/patna/shubhraj-fast-food-golambar/info
+Patna,Barbeque Nation,4.9,"Patna One Mall, Fraser Road Area, Patna","BBQ, North Indian, Beverages, Desserts","₹1,500 for two",https://www.zomato.com/patna/barbeque-nation-2-fraser-road-area/info
+Patna,Social Kulture,4.7,"Kankarbagh, Patna","Asian, European, Modern Indian, Bakery, Desserts, Beverages, Shake","₹1,200 for two",https://www.zomato.com/patna/social-kulture-kankarbagh/info
+Patna,AB's - Absolute Barbecues,4.8,"Lodipur, Patna","North Indian, Street Food, Salad, BBQ, Desserts, Chinese, Continental","₹1,200 for two",https://www.zomato.com/patna/abs-absolute-barbecues-lodipur/info
+Patna,Bhukkhad,4.1,"Rajendra Nagar, Patna","North Indian, Biryani, Chinese, Beverages, South Indian",₹400 for two,https://www.zomato.com/patna/bhukkhad-rajendra-nagar/info
+Patna,Fifth Avenue Bakery And Cafe,4.1,"Lodipur, Patna","Bakery, Fast Food, Pizza, Beverages",₹600 for two,https://www.zomato.com/patna/fifth-avenue-bakery-and-cafe-lodipur/info
+Patna,Patna Rasoi,4.1,"Fraser Road Area, Patna","South Indian, North Indian, Chinese",₹550 for two,https://www.zomato.com/patna/patna-rasoi-fraser-road-area/info
+Patna,Berco's - If You Love Chinese,4.0,"Golambar, Patna","Chinese, Thai, Asian",₹900 for two,https://www.zomato.com/patna/bercos-if-you-love-chinese-golambar/info
+Patna,McDonald's,4.3,"Golambar, Patna","Burger, Fast Food, Beverages, Coffee",₹500 for two,https://www.zomato.com/patna/mcdonalds-golambar/info
+Patna,Foresto Paradise,4.4,"Fraser Road Area, Patna","North Indian, Chinese, Continental, Oriental, Kebab, European","₹1,100 for two",https://www.zomato.com/patna/foresto-paradise-fraser-road-area/info
+Patna,The Boring Cafe',4.7,"Kidwaipuri, Patna","Fast Food, Chinese, North Indian, Pizza, Sandwich, Desserts, Shake, Beverages",₹500 for two,https://www.zomato.com/patna/the-boring-cafe-kidwaipuri/info
+Patna,Chandan Hotel,4.3,"Golambar, Patna",North Indian,₹200 for two,https://www.zomato.com/patna/chandan-hotel-golambar/info
+Patna,The Downtown Cafe,4.0,"Kankarbagh, Patna","Continental, Chinese, Pizza, Fast Food, Beverages",₹400 for two,https://www.zomato.com/patna/the-downtown-cafe-kankarbagh/info
+Patna,Novelty Corner,4.0,"Kankarbagh, Patna","Bakery, Mithai",₹350 for two,https://www.zomato.com/patna/novelty-corner-kankarbagh/info
+Patna,Cafe 13,4.1,"Kidwaipuri, Patna","Cafe, Fast Food, Desserts, Beverages, Italian",₹600 for two,https://www.zomato.com/patna/cafe-13-kidwaipuri/info
+Patna,Amrapali Cafe,4.5,"Fraser Road Area, Patna","North Indian, Fast Food, Chinese, Biryani, Kebab",₹600 for two,https://www.zomato.com/patna/amrapali-cafe-fraser-road-area/info
+Patna,Biryani Lazeez,4.0,"Sri Krishnapuri, Patna","Biryani, Chinese, North Indian",₹300 for two,https://www.zomato.com/patna/biryani-lazeez-sri-krishnapuri/info
+Patna,Indian Summer Cafe,4.4,"Golambar, Patna","North Indian, Cafe, Healthy Food, Fast Food, Chinese, Italian",₹800 for two,https://www.zomato.com/patna/indian-summer-cafe-1-golambar/info
+Patna,Biryani By Kilo,4.1,"Patliputra Colony, Patna","Biryani, Mughlai, Kebab, Hyderabadi, Desserts, Beverages",₹700 for two,https://www.zomato.com/patna/biryani-by-kilo-patliputra-colony/info
+Patna,Domino's Pizza,4.0,"Hajipur, Patna","Pizza, Fast Food",₹400 for two,https://www.zomato.com/patna/dominos-pizza-1-hajipur/info
+Patna,Old Champaran Meat House,4.0,"Fraser Road Area, Patna","North Indian, Mughlai",₹400 for two,https://www.zomato.com/patna/old-champaran-meat-house-fraser-road-area/info
+Patna,KFC,4.0,"Patliputra Colony, Patna","Burger, Fast Food, Biryani, Desserts, Beverages",₹450 for two,https://www.zomato.com/patna/kfc-1-patliputra-colony/info
+Patna,Swaaddesh,4.6,"Sri Krishnapuri, Patna","North Indian, Chinese, Biryani, Desserts, Mughlai",₹700 for two,https://www.zomato.com/patna/swaaddesh-sri-krishnapuri/info
+Patna,Biryani By Bihari's,4.4,"Rukanpura, Patna","Biryani, North Indian, Mughlai",₹500 for two,https://www.zomato.com/patna/biryani-by-biharis-1-rukanpura/info
+Patna,Raj Darbar Family Restaurant,4.1,"Golambar, Patna","North Indian, Chinese, Mughlai, Biryani, Fast Food",₹650 for two,https://www.zomato.com/patna/raj-darbar-family-restaurant-golambar/info
+Patna,Rollacosta,4.4,"Golambar, Patna","Lebanese, Rolls, Fast Food, Shake, Beverages",₹500 for two,https://www.zomato.com/patna/rollacosta-golambar/info
+Patna,Spice Court - Hotel Maurya,4.0,"Hotel Maurya, Lodipur, Patna","North Indian, Chinese, Biryani, Desserts, Beverages, Sichuan","₹1,800 for two",https://www.zomato.com/patna/spice-court-hotel-maurya-lodipur/info
+Patna,Pankaj Sweets,4.4,"Golambar, Patna","Mithai, Bakery, Desserts",₹400 for two,https://www.zomato.com/patna/pankaj-sweets-golambar/info
+Patna,Cafe Hideout,4.1,"Patliputra Colony, Patna","Sandwich, Chinese, Pasta, Beverages",₹600 for two,https://www.zomato.com/patna/cafe-hideout-3-patliputra-colony/info
+Patna,17 Degrees,4.5,"Kurji, Patna",North Indian,₹800 for two,https://www.zomato.com/patna/17-degrees-1-kurji/info
+Patna,Bikaner Sweets,4.1,"Kankarbagh, Patna","Mithai, Fast Food, Sandwich, Shake",₹300 for two,https://www.zomato.com/patna/bikaner-sweets-kankarbagh/info
+Patna,Pizza Hut,4.0,"P&M Mall, Kurji, Patna","Pizza, Fast Food, Desserts, Beverages",₹600 for two,https://www.zomato.com/patna/pizza-hut-kurji/info
+Patna,Biryani Handi Ghar,4.0,"Kidwaipuri, Patna","Biryani, North Indian",₹200 for two,https://www.zomato.com/patna/biryani-handi-ghar-kidwaipuri/info
+Patna,Pukhtaan - The Royal Taste Of India,4.0,"Fraser Road Area, Patna","Mughlai, Awadhi, Biryani, North Indian, Desserts, Beverages","₹1,500 for two",https://www.zomato.com/patna/pukhtaan-the-royal-taste-of-india-fraser-road-area/info
+Patna,Takshila - Hotel Chanakya,4.1,"Hotel Chanakya, Sri Krishnapuri, Patna","Mughlai, North Indian, Desserts","₹1,800 for two",https://www.zomato.com/patna/takshila-hotel-chanakya-sri-krishnapuri/info
+Patna,Basant Vihar,4.4,"Maurya Lok, Fraser Road Area, Patna","South Indian, Ice Cream, Street Food, Beverages",₹500 for two,https://www.zomato.com/patna/basant-vihar-fraser-road-area/info
+Patna,Moti Mahal Delux Tandoori Trail,4.7,"Sri Krishnapuri, Patna","North Indian, Mughlai, Chinese, Biryani, BBQ, Beverages",₹800 for two,https://www.zomato.com/patna/moti-mahal-delux-tandoori-trail-sri-krishnapuri/info
+Patna,Om Sweets & Chat,4.0,"Patliputra Colony, Patna","Mithai, Street Food",₹350 for two,https://www.zomato.com/patna/om-sweets-chat-patliputra-colony/info
+Patna,The Ultimate Bhukkhad Dhaba,4.0,"Anandpuri, Patna","North Indian, Chinese, Rolls",₹250 for two,https://www.zomato.com/patna/the-ultimate-bhukkhad-dhaba-anandpuri/info
+Patna,Kapil Dev's Eleven,4.4,"Fraser Road Area, Patna","North Indian, Chinese, Continental, Biryani, Desserts, Italian, Mughlai, Kebab","₹1,000 for two",https://www.zomato.com/patna/kapil-devs-eleven-fraser-road-area/info
+Patna,Champaran Meat House TM,4.2,"Kankarbagh, Patna","North Indian, Biryani",₹300 for two,https://www.zomato.com/patna/champaran-meat-house-tm-kankarbagh/info
+Patna,Nirvana,4.3,"Sri Krishnapuri, Patna","North Indian, Chinese, Mughlai, Fast Food, Street Food, Beverages, Desserts",₹900 for two,https://www.zomato.com/patna/nirvana-sri-krishnapuri/info
+Patna,In & La Kitchen,4.1,"Rajendra Nagar, Patna","North Indian, Chinese, Rolls",₹300 for two,https://www.zomato.com/patna/in-la-kitchen-rajendra-nagar/info
+Patna,Patna Foodies Club,4.1,"Sri Krishnapuri, Patna","North Indian, Chinese, Momos, Rolls, Fast Food, Biryani, Shake, Bihari",₹400 for two,https://www.zomato.com/patna/patna-foodies-club-sri-krishnapuri/info
+Patna,The Biryani Mall,4.2,"Fraser Road Area, Patna","Biryani, Mughlai, Chinese, North Indian, Beverages, Ice Cream, Rolls",₹600 for two,https://www.zomato.com/patna/the-biryani-mall-fraser-road-area/info
+Patna,Biryani Mahal,4.4,"Fraser Road Area, Patna","Biryani, Mughlai, North Indian, Chinese, Fast Food",₹700 for two,https://www.zomato.com/patna/biryani-mahal-2-fraser-road-area/info
+Patna,M.O.S Cafe & Grill,4.2,"Kidwaipuri, Patna","Chinese, North Indian, Pizza, Burger, Sandwich, Italian, Coffee, Beverages",₹550 for two,https://www.zomato.com/patna/m-o-s-cafe-grill-kidwaipuri/info
+Patna,Yo China,4.0,"Fraser Road Area, Patna","Continental, Chinese, North Indian, Seafood, Ice Cream, Desserts, Beverages",₹800 for two,https://www.zomato.com/patna/yo-china-1-fraser-road-area/info
+Patna,The Foodies,4.1,"Kankarbagh, Patna","North Indian, Chinese, Beverages",₹500 for two,https://www.zomato.com/patna/the-foodies-kankarbagh/info
+Patna,Chatkara Food Court,4.1,"Khajpura, Patna","Fast Food, North Indian, Chinese, South Indian, Shake",₹500 for two,https://www.zomato.com/patna/chatkara-food-court-khajpura/info
+Patna,Momo Nation Cafe,4.2,"Kankarbagh, Patna","Chinese, Fast Food, Street Food, Beverages, Momos",₹400 for two,https://www.zomato.com/patna/momo-nation-cafe-2-kankarbagh/info
+Patna,Tandoor Hut,4.1,"Fraser Road Area, Patna","North Indian, Mughlai, Chinese, Kebab",₹400 for two,https://www.zomato.com/patna/tandoor-hut-fraser-road-area/info
+Patna,Ram Babu Hotel And Restaurant,4.2,"Kankarbagh, Patna","North Indian, Chinese, Biryani, Mughlai",₹300 for two,https://www.zomato.com/patna/ram-babu-hotel-and-restaurant-kankarbagh/info
+Patna,Cafe Hideout,4.2,"Khajpura, Patna","Chinese, Salad, North Indian, BBQ, Biryani, Fast Food, Beverages",₹700 for two,https://www.zomato.com/patna/cafe-hideout-khajpura/info
+Patna,Champaran Meat House,4.1,"Khajpura, Patna","North Indian, Chinese",₹400 for two,https://www.zomato.com/patna/champaran-meat-house-khajpura/info
+Patna,Keventers - Milkshakes & Desserts,4.2,"Kankarbagh, Patna","Shake, Beverages, Desserts, Ice Cream",₹400 for two,https://www.zomato.com/patna/keventers-milkshakes-desserts-kankarbagh/info
+Patna,Biryani House,4.2,"Golambar, Patna","Biryani, Mughlai, North Indian",₹300 for two,https://www.zomato.com/patna/biryani-house-golambar/info
+Patna,Biryani Badshah,4.2,"Phulwari Sharif, Patna","Biryani, North Indian, Mughlai, Hyderabadi, Andhra",₹450 for two,https://www.zomato.com/patna/biryani-badshah-phulwari-sharif/info
+Patna,Lakhu Da Dhaba,4.0,"Fraser Road Area, Patna","North Indian, Chinese, Biryani, Mughlai, Beverages",₹400 for two,https://www.zomato.com/patna/lakhu-da-dhaba-1-fraser-road-area/info
+Patna,Anmol Pal Hotel,4.1,"Fraser Road Area, Patna","North Indian, South Indian, Chinese, Desserts, Mughlai, Seafood, BBQ",₹450 for two,https://www.zomato.com/patna/anmol-pal-hotel-fraser-road-area/info
+Patna,Zaika Vihar,4.0,"Sri Krishnapuri, Patna","North Indian, Mughlai, Chinese",₹450 for two,https://www.zomato.com/patna/zaika-vihar-sri-krishnapuri/info
+Patna,Biryani King,4.2,"Bakerganj, Patna","Biryani, North Indian",₹400 for two,https://www.zomato.com/patna/biryani-king-bakerganj/info
+Patna,The Pine,4.0,"Patliputra Colony, Patna","North Indian, Chinese, Kebab, Beverages, Desserts, Mughlai",₹800 for two,https://www.zomato.com/patna/the-pine-patliputra-colony/info
+Patna,Banjara,4.2,"Sri Krishnapuri, Patna","Chinese, South Indian, Sichuan",₹300 for two,https://www.zomato.com/patna/banjara-sri-krishnapuri/info
+Patna,Pandey Jee,4.0,"Sri Krishnapuri, Patna","Biryani, North Indian, Mughlai, Fast Food, Sichuan",₹300 for two,https://www.zomato.com/patna/pandey-jee-sri-krishnapuri/info
+Patna,New Biryani Mahal,4.1,"Golambar, Patna","Biryani, Mughlai, North Indian, Kebab, Rolls",₹400 for two,https://www.zomato.com/patna/new-biryani-mahal-golambar/info
+Patna,Chicago Pizza,4.2,"Patliputra Colony, Patna","Pizza, Pasta, Fast Food, Beverages",₹350 for two,https://www.zomato.com/patna/chicago-pizza-1-patliputra-colony/info
+Patna,Lazeez,4.2,"Patliputra Colony, Patna","North Indian, Mughlai, Chinese, Beverages",₹800 for two,https://www.zomato.com/patna/lazeez-patliputra-colony/info
+Patna,Mings Chimney,4.1,"Patliputra Colony, Patna","Chinese, Momos, Kebab, North Indian",₹400 for two,https://www.zomato.com/patna/mings-chimney-patliputra-colony/info
+Patna,Grand Biryani Mahal,4.0,"Sadikpur, Patna","Biryani, Arabian, North Indian, Kebab, Chinese, Rolls",₹400 for two,https://www.zomato.com/patna/grand-biryani-mahal-sadikpur/info
+Patna,Barbecue Live,4.1,"Hajipur, Patna","Chinese, North Indian, Fast Food, Ice Cream, Desserts, Beverages",₹500 for two,https://www.zomato.com/patna/barbecue-live-hajipur/info
+Patna,Well Food,4.0,"Kankarbagh, Patna","North Indian, Mughlai, Chinese, Rolls",₹700 for two,https://www.zomato.com/patna/well-food-kankarbagh/info
+Patna,The Belgian Waffle Co.,4.5,"Kidwaipuri, Patna","Waffle, Desserts, Pancake, Beverages",₹550 for two,https://www.zomato.com/patna/the-belgian-waffle-co-kidwaipuri/info
+Patna,Emperor Fast Food,4.2,"Sri Krishnapuri, Patna","North Indian, Chinese, Kebab, Biryani, Mughlai",₹400 for two,https://www.zomato.com/patna/emperor-fast-food-sri-krishnapuri/info
+Patna,Hi Q Foods,4.0,"Gardanibagh, Patna","North Indian, Mughlai, Kebab, Chinese",₹450 for two,https://www.zomato.com/patna/hi-q-foods-gardanibagh/info
+Patna,Bawarchi,4.2,"Kankarbagh, Patna","North Indian, Chinese",₹600 for two,https://www.zomato.com/patna/bawarchi-kankarbagh/info
+Patna,7 Colour's Kabab Hut,4.2,"Kidwaipuri, Patna","Kebab, Mughlai, Rolls, Chinese, North Indian",₹400 for two,https://www.zomato.com/patna/7-colours-kabab-hut-kidwaipuri/info
+Patna,Nice Biryani Corner,4.3,"Kankarbagh, Patna","Biryani, Rolls, Chinese",₹200 for two,https://www.zomato.com/patna/nice-biryani-corner-kankarbagh/info
+Patna,Ankur Restaurant,4.1,"Sri Krishnapuri, Patna","North Indian, Chinese, Biryani, Fast Food, Beverages",₹800 for two,https://www.zomato.com/patna/ankur-restaurant-sri-krishnapuri/info
+Patna,Kabab Mahal,4.2,"Kankarbagh, Patna","North Indian, Biryani, Kebab, Rolls",₹550 for two,https://www.zomato.com/patna/kabab-mahal-kankarbagh/info
+Patna,Dumsum,4.2,"Mithapur, Patna","Chinese, North Indian, Rolls, Biryani, Momos, Kebab, Street Food",₹350 for two,https://www.zomato.com/patna/dumsum-mithapur/info
+Patna,Ji Hujur,4.1,"Kankarbagh, Patna","North Indian, Chinese, Rolls",₹400 for two,https://www.zomato.com/patna/ji-hujur-kankarbagh/info
+Patna,Momo Magic Cafe,4.3,"Kidwaipuri, Patna","North Indian, Pasta, Fast Food, Chinese, Beverages, Momos, Sichuan",₹400 for two,https://www.zomato.com/patna/momo-magic-cafe-kidwaipuri/info
+Patna,Arsalan Biryani,4.2,"Phulwari Sharif, Patna","Biryani, Mughlai, North Indian, Rolls, Kebab",₹500 for two,https://www.zomato.com/patna/arsalan-biryani-phulwari-sharif/info
+Patna,Al Chef,4.1,"Kankarbagh, Patna",Lebanese,₹250 for two,https://www.zomato.com/patna/al-chef-kankarbagh/info
+Patna,Khana Khazana,4.1,"Sri Krishnapuri, Patna","North Indian, Biryani, Street Food",₹300 for two,https://www.zomato.com/patna/khana-khazana-2-sri-krishnapuri/info
+Patna,Saltwater,4.0,"Khajpura, Patna","Fast Food, North Indian, Chinese",₹350 for two,https://www.zomato.com/patna/saltwater-khajpura/info
+Patna,Om Sai Ka Dhaba,4.1,"Rukanpura, Patna","North Indian, Chinese, Fast Food, Rolls",₹400 for two,https://www.zomato.com/patna/om-sai-ka-dhaba-rukanpura/info
+Patna,Food Adda,4.2,"Kankarbagh, Patna",Chinese,₹300 for two,https://www.zomato.com/patna/food-adda-kankarbagh/info
+Patna,Chanpatiya Meet Pratha House,4.0,"Kidwaipuri, Patna","North Indian, Mughlai",₹300 for two,https://www.zomato.com/patna/chanpatiya-meet-pratha-house-kidwaipuri/info
+Patna,Biryani Adda,4.0,"Kankarbagh, Patna",Biryani,₹300 for two,https://www.zomato.com/patna/biryani-adda-kankarbagh/info
+Patna,Petuzzz,4.1,"Anisabad, Patna","Chinese, Fast Food, Biryani, Sichuan",₹350 for two,https://www.zomato.com/patna/petuzzz-anisabad/info
+Patna,Yummy Yummy Food Corner,4.0,"Hajipur, Patna","Fast Food, North Indian",₹250 for two,https://www.zomato.com/patna/yummy-yummy-food-corner-hajipur/info
+Patna,Kolkata Biryani House,4.0,"Bakerganj, Patna",Biryani,₹350 for two,https://www.zomato.com/patna/kolkata-biryani-house-bakerganj/info
+Patna,Jitendra Hotel,4.1,"Kankarbagh, Patna",North Indian,₹200 for two,https://www.zomato.com/patna/jitendra-hotel-kankarbagh/info
+Patna,Arush Hotel,4.2,"Kankarbagh, Patna","North Indian, Mughlai, Chinese",₹350 for two,https://www.zomato.com/patna/arush-hotel-kankarbagh/info
+Patna,Sinha's,4.0,"Kidwaipuri, Patna","Fast Food, North Indian, Chinese, Rolls",₹600 for two,https://www.zomato.com/patna/sinhas-kidwaipuri/info
+Patna,Biryani @ Dry N' Fry,4.0,"Sri Krishnapuri, Patna","Biryani, North Indian",₹350 for two,https://www.zomato.com/patna/biryani-@-dry-n-fry-sri-krishnapuri/info
+Patna,Kamat Restaurant,4.0,"Patliputra Colony, Patna","North Indian, Chinese, Mughlai, Kebab, South Indian, Desserts, Beverages",₹700 for two,https://www.zomato.com/patna/kamat-restaurant-patliputra-colony/info
+Patna,Masala Darbar,4.5,"Rukanpura, Patna","North Indian, Chinese, Rolls, Biryani",₹450 for two,https://www.zomato.com/patna/masala-darbar-rukanpura/info
+Patna,Classic Family Restaurant,4.0,"Sri Krishnapuri, Patna","North Indian, Chinese, Kebab, Mughlai",₹600 for two,https://www.zomato.com/patna/classic-family-restaurant-sri-krishnapuri/info
+Patna,Cherry Sweets & Confectioners,4.5,"Patliputra Colony, Patna","Bakery, Desserts, Fast Food",₹300 for two,https://www.zomato.com/patna/cherry-sweets-confectioners-patliputra-colony/info
+Patna,Shivangi,4.1,"Anandpuri, Patna","North Indian, Biryani, Chinese",₹300 for two,https://www.zomato.com/patna/shivangi-anandpuri/info
+Patna,Noodles Corner,4.0,"Khajpura, Patna","Chinese, North Indian",₹300 for two,https://www.zomato.com/patna/noodles-corner-khajpura/info
+Patna,Savitri Rasoi,4.0,"Kankarbagh, Patna","North Indian, Mughlai, Biryani, Chinese, Rolls",₹400 for two,https://www.zomato.com/patna/savitri-rasoi-kankarbagh/info
+Patna,Foodaholic,4.2,"Patliputra Colony, Patna","North Indian, Biryani, Chinese, Street Food",₹300 for two,https://www.zomato.com/patna/foodaholic-patliputra-colony/info
+Patna,7th Heaven,4.1,"Patliputra Colony, Patna","Bakery, Desserts, Pizza, Fast Food, Street Food",₹500 for two,https://www.zomato.com/patna/7th-heaven-patliputra-colony/info
+Patna,Dancing Noodles,4.3,"Patliputra Colony, Patna","North Indian, Biryani, Momos, Chinese, Sichuan",₹400 for two,https://www.zomato.com/patna/dancing-noodles-patliputra-colony/info
+Kolkata,Roastery Coffee House,4.6,"Gariahat, Kolkata","Cafe, Coffee, Continental, Italian, American, Beverages, Desserts",₹800 for two,https://www.zomato.com/kolkata/roastery-coffee-house-gariahat/info
+Kolkata,ITC Royal Bengal- Grand Market Pavilion,4.3,"ITC Royal Bengal, Science City Area, Kolkata","North Indian, Chinese, Continental, Bengali","₹3,500 for two",https://www.zomato.com/kolkata/itc-royal-bengal-grand-market-pavilion-science-city-area/info
+Kolkata,The Bikers Cafe,4.4,"Elgin, Kolkata","Italian, American, Continental, Desserts","₹1,100 for two",https://www.zomato.com/kolkata/the-bikers-cafe-elgin/info
+Kolkata,JW Kitchen - JW Marriott Hotel,4.5,"JW Marriott Hotel Kolkata, Science City Area, Kolkata","North Indian, European, Mediterranean, Thai, Salad, Desserts, Beverages","₹2,900 for two",https://www.zomato.com/kolkata/jw-kitchen-jw-marriott-hotel-science-city-area/info
+Kolkata,Cafe Na-Ru-Meg,4.3,"Lake Market Area, Kolkata","Cafe, Continental, Chinese",₹500 for two,https://www.zomato.com/kolkata/cafe-na-ru-meg-lake-market-area/info
+Kolkata,Seasonal Taste- The Westin Kolkata,4.4,"The Westin Kolkata Rajarhat, New Town, Kolkata","Continental, Biryani, American, North Indian, Asian","₹3,000 for two",https://www.zomato.com/kolkata/seasonal-taste-the-westin-kolkata-new-town/info
+Kolkata,K Local,4.1,"City Centre 1, Sector 1, Salt Lake, Kolkata","Chinese, Fast Food, North Indian, Sichuan","₹1,200 for two",https://www.zomato.com/kolkata/k-local-sector-1-salt-lake/info
+Kolkata,Artsy,4.4,"Minto Park, Kolkata","Healthy Food, Sandwich, Beverages, Coffee, Cafe, Desserts, Italian, Salad",₹800 for two,https://www.zomato.com/kolkata/artsy-1-minto-park/info
+Kolkata,The Country House,4.3,"Elgin, Kolkata","Cafe, Italian, Continental, Fast Food, Desserts, Beverages",₹800 for two,https://www.zomato.com/kolkata/the-country-house-elgin/info
