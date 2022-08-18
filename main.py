@@ -6,14 +6,18 @@ import pandas as pd
 import itertools
 
 
-cities = [
-    'Lucknow',
-    'Patna',
-    'Kolkata',
-    'Mumbai'
-]
+
+df = pd.read_csv('insert.csv')
+cty = df.get("cities")
+cities = cty.tolist()
+print(cities)
+
+
+
+
 
 def parse_for_city(driver, city):
+      
     driver.get(f'https://www.zomato.com/{city.lower()}/dine-out?rating_range=4.0-5.0')
 
 
