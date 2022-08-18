@@ -5,16 +5,10 @@ import time
 import pandas as pd
 import itertools
 
-
-
-df = pd.read_csv('insert.csv')
-cty = df.get("cities")
+df = pd.read_csv('input.csv')
+cty = df.get("city")
 cities = cty.tolist()
 print(cities)
-
-
-
-
 
 def parse_for_city(driver, city):
       
@@ -72,8 +66,6 @@ def parse_for_city(driver, city):
             "url": restaurant_div.get_attribute('href'),
         })
     return restaurants
-
-
 
 webdriver = webdriver.Chrome(ChromeDriverManager().install())
 df = pd.DataFrame(
