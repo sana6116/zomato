@@ -8,7 +8,6 @@ import itertools
 df = pd.read_csv('input.csv')
 cty = df.get("city")
 cities = cty.tolist()
-print(cities)
 
 def parse_for_city(driver, city):
       
