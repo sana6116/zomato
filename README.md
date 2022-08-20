@@ -23,4 +23,3 @@ It is desgined to scape from food delivery Website/Application
 
 ### Getting help
 for questions use **Stack OverFlow** or **geeksforgeeks**
-
